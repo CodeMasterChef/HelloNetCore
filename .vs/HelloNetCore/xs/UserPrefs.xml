@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{063CECB3-8400-43BA-8E9F-AECC2D952436}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloNetCore/Controllers/HelloController.cs">
+    <Files>
+      <File FileName="HelloNetCore/Controllers/ValuesController.cs" Line="10" Column="47" />
+      <File FileName="HelloNetCore/Controllers/HelloController.cs" Line="6" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HelloNetCore PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
